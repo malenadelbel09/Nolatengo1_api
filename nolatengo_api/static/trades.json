@@ -1,9 +1,29 @@
 [
     {
-        "counteroffers": [],
+        "counterOffers": [
+            {
+                "id": "TDO8cf07b86284c4",
+                "message": "Plaza Italia, viernes 10am",
+                "status": "send",
+                "userId": "MPc48eddb8"
+            },
+            {
+                "id": "TDO8cf07b86284c4",
+                "message": "Plaza Italia, viernes 10am",
+                "status": "send",
+                "userId": "JA32bf28b8"
+            }
+        ],
         "offer": "LM27",
-        "publisher": "MPc48eddb8",
+        "publisher": "LT7251111d",
+        "request": "TM71",
+        "tradeId": "TD60984fa5"
+    },
+    {
+        "offer": "LM27",
         "request": "CR16",
-        "tradeId": "TDd311469f"
+        "publisher": "md12032c93",
+        "counterOffers": [],
+        "tradeId": "TDd52cdec5"
     }
 ]
